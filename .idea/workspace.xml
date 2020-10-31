@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08acc058-faa1-4482-8008-b1b8ab582d3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/Employee/createEmployee.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/mobileSideNavbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/topNavBar.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/EmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/EmployeeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/admin_dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/admin_dashboard.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/backend/layouts/sidenav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/sidenav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604135894488</updated>
-      <workItem from="1604135900989" duration="3731000" />
+      <workItem from="1604135900989" duration="15711000" />
     </task>
     <servers />
   </component>
@@ -183,9 +190,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="292" width="399" height="164" key="NewPhpFileDialog" timestamp="1604139324177">
+    <state x="478" y="292" width="399" height="164" key="NewPhpFileDialog" timestamp="1604148415629">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="478" y="292" width="399" height="164" key="NewPhpFileDialog/0.0.1366.741@0.0.1366.741" timestamp="1604139324177" />
+    <state x="478" y="292" width="399" height="164" key="NewPhpFileDialog/0.0.1366.741@0.0.1366.741" timestamp="1604148415629" />
   </component>
 </project>

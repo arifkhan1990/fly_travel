@@ -1,5 +1,5 @@
 @extends('backend.master')
-
+{{--@section('breadcrumb-title', 'Dashboard')--}}
 @section('main_content')
     <div class="grid grid-cols-12 gap-6">
         <div class="col-span-12 xxl:col-span-9 grid grid-cols-12 gap-6">
